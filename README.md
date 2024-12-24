@@ -27,8 +27,16 @@ Basic-Calculator/
 ├── index.html        # Main HTML file
 ├── scripts/
 │   └── main.js       # JavaScript logic
-└── styles/
-    └── style.css     # CSS styling
+├── styles/
+│   └── style.css     # CSS styling
+├── Java/
+│   └── HelloWorld.java
+├── Python/
+│   └── hello_world.py
+├── WebDevelopment/
+│   └── index.html
+└── FrontendDevelopment/
+    └── app.js
 ```
 
 ## Setup and Running
