@@ -39,6 +39,48 @@ Basic-Calculator/
     └── app.js
 ```
 
+## Running the Project
+
+### Technology Tracks Execution
+
+#### Java
+```bash
+# Compile the Java file
+javac Java/HelloWorld.java
+
+# Run the compiled Java program
+java -cp Java HelloWorld
+```
+
+#### Python
+```bash
+# Run the Python script
+python3 Python/hello_world.py
+```
+
+#### Web Development
+```bash
+# Open the HTML file in default web browser
+open WebDevelopment/index.html
+```
+
+#### Frontend Development
+```bash
+# Open the HTML file in default web browser
+open FrontendDevelopment/index.html
+```
+
+#### Basic Calculator
+```bash
+# Open the main calculator HTML file in default web browser
+open index.html
+```
+
+### Prerequisites
+- Java Development Kit (JDK) for Java files
+- Python 3 for Python scripts
+- Modern web browser for HTML/JavaScript files
+
 ## Setup and Running
 - No additional dependencies required
 - Simply open `index.html` in a modern web browser
